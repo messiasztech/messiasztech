@@ -69,10 +69,30 @@ React, Next.js, Vue.js, Node.js, Python, inteligência artificial e computação
 
 ## 🌎 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/messiasztech/)
-- 📷 [Instagram pessoal](https://instagram.com/messiasz.tech)
-- 🚀 [Instagram M&C TechLab](https://instagram.com/m.ctechlab)
-- 🌐 [M&C TechLab](https://mctechlab.vercel.app)
+<p>
+  <a href="https://www.linkedin.com/in/messiasztech/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="20" alt="LinkedIn" />
+    LinkedIn
+  </a>
+</p>
+<p>
+  <a href="https://instagram.com/messiasz.tech">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" alt="Instagram" />
+    Instagram pessoal
+  </a>
+</p>
+<p>
+  <a href="https://instagram.com/m.ctechlab">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="20" alt="Instagram M&C TechLab" />
+    Instagram M&amp;C TechLab
+  </a>
+</p>
+<p>
+  <a href="https://mctechlab.vercel.app">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="20" alt="Site M&C TechLab" />
+    Site M&amp;C TechLab
+  </a>
+</p>
 
 <div align="center">
 
