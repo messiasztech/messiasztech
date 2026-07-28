@@ -54,8 +54,8 @@ Automações, APIs, agentes de IA, desenvolvimento assistido e chatbots para res
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=messiasztech&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Messias Ribeiro" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messiasztech&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=messiasztech&theme=tokyonight" alt="Estatísticas do GitHub de Messias Ribeiro" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=messiasztech&theme=tokyonight" alt="Linguagens mais usadas" />
 
 <br /><br />
 
