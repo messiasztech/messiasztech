@@ -1,58 +1,149 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&section=header&text=Messias%20Ribeiro&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Programming%20Teacher%20|%20Founder%20of%20M%26C%20TechLab&descAlignY=68)
-
 <h1 align="center">👋 Olá, eu sou o Messias Ribeiro</h1>
 
 <h3 align="center">
-💻 Full Stack Developer • 👨‍🏫 Professor de Programação • 🚀 Founder of M&C TechLab
+💻 Full Stack Developer • 👨‍🏫 Programming Teacher • 🚀 Founder of M&C TechLab
 </h3>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Desenvolvedor+Full+Stack;Professor+de+Programa%C3%A7%C3%A3o;Especialista+em+Solu%C3%A7%C3%B5es+Web;Entusiasta+de+IA;Impress%C3%A3o+3D+Maker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Programming+Teacher;Building+Web+Solutions;Artificial+Intelligence;3D+Printing+Enthusiast)](https://git.io/typing-svg)
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/messiasztech/" target="_blank">
+<a href="https://www.linkedin.com/in/messiasztech/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/messiasz.tech" target="_blank">
+<a href="https://instagram.com/messiasz.tech">
 <img src="https://img.shields.io/badge/@messiasz.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/m.ctechlab" target="_blank">
+<a href="https://instagram.com/m.ctechlab">
 <img src="https://img.shields.io/badge/@m.ctechlab-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://mctechlab.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/M&C%20TechLab-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://mctechlab.vercel.app">
+<img src="https://img.shields.io/badge/M&C_TechLab-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<img align="right" width="330" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-# 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
-
-📚 Graduando em **Ciência da Computação**
+💻 Desenvolvedor Full Stack
 
 👨‍🏫 Professor de Programação
 
-💻 Desenvolvedor Full Stack
+🎓 Graduado em Análise e Desenvolvimento de Sistemas
+
+📚 Graduando em Ciência da Computação
+
+🚀 Fundador da **M&C TechLab**
 
 🤖 Apaixonado por Inteligência Artificial
 
 🖨️ Entusiasta de Impressão 3D
 
-🚀 Fundador da **M&C TechLab**
+🌎 Brasil
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛒 Açaí Mix Delivery
+
+Sistema SaaS para gerenciamento de pedidos online.
+
+**Principais recursos**
+
+- 🍧 Catálogo
+- 🛒 Carrinho
+- 📱 WhatsApp
+- 👤 Login
+- 📊 Dashboard
+- ⚙ Administração
+
+**Stack**
+
+React • Node.js • MySQL
+
+</td>
+
+<td width="50%">
+
+### 🌐 M&C TechLab
+
+Site institucional da empresa.
+
+✔ Desenvolvimento Web
+
+✔ Impressão 3D
+
+✔ Assistência Técnica
+
+✔ Soluções Digitais
+
+🔗 https://mctechlab.vercel.app
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🖨️ Calculadora 3D
+
+Sistema para cálculo automático de custos.
+
+✔ Peso
+
+✔ Tempo
+
+✔ Energia
+
+✔ Filamento
+
+✔ Lucro
+
+</td>
+
+<td width="50%">
+
+### 🤖 Inteligência Artificial
+
+Projetos utilizando IA para:
+
+✔ Automação
+
+✔ APIs
+
+✔ Chatbots
+
+✔ Desenvolvimento Assistido
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠 Tecnologias
 
 <div align="center">
 
@@ -62,67 +153,19 @@
 
 ---
 
-# 🚀 Projetos em Destaque
+## 📚 Atualmente estudando
 
-## 🛒 Açaí Mix Delivery SaaS
-
-Sistema SaaS para gerenciamento de açaiterias.
-
-### Recursos
-
-- 📦 Catálogo de Produtos
-- 🛒 Carrinho
-- 📱 Pedido via WhatsApp
-- 👤 Login
-- ⚙ Painel Administrativo
-- 📊 Dashboard
-- 📈 Relatórios
-
-**Tecnologias**
-
-React • Node.js • MySQL
+- React
+- Next.js
+- Vue.js
+- Node.js
+- Python
+- Inteligência Artificial
+- Cloud Computing
 
 ---
 
-## 🌐 M&C TechLab
-
-🔗 https://mctechlab.vercel.app/
-
-Serviços oferecidos:
-
-- 💻 Desenvolvimento Web
-- 🖨️ Impressão 3D
-- 🛠️ Assistência Técnica
-- 🤖 Soluções com IA
-- ☁️ Sistemas Web
-
----
-
-## 🖨️ Calculadora de Impressão 3D
-
-Sistema para cálculo automático de custos considerando:
-
-- Peso
-- Tempo
-- Energia
-- Filamento
-- Lucro
-
----
-
-## 🤖 Inteligência Artificial
-
-Projetos voltados para:
-
-- Automação
-- Agentes IA
-- Desenvolvimento Assistido
-- APIs
-- Chatbots
-
----
-
-# 📊 GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -142,18 +185,17 @@ Projetos voltados para:
 
 ---
 
-# 📚 Atualmente estudando
+## 📈 Contribuições
 
-- ⚛️ React
-- 💚 Vue.js
-- 🟢 Node.js
-- 🐍 Python
-- 🤖 Inteligência Artificial
-- ☁️ Cloud Computing
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=messiasztech&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🌎 Vamos nos conectar?
+## 🌎 Vamos nos conectar?
 
 <div align="center">
 
@@ -166,11 +208,11 @@ Projetos voltados para:
 </a>
 
 <a href="https://instagram.com/m.ctechlab">
-<img src="https://img.shields.io/badge/M&C%20TechLab-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/M&C_TechLab-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://mctechlab.vercel.app/">
-<img src="https://img.shields.io/badge/Site-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://mctechlab.vercel.app">
+<img src="https://img.shields.io/badge/Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -179,10 +221,8 @@ Projetos voltados para:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=messiasztech&style=for-the-badge&color=2563eb)
+![](https://komarev.com/ghpvc/?username=messiasztech&style=for-the-badge&color=2563EB)
 
-### ⭐ "Transformando ideias em soluções através da tecnologia."
+### ⭐ Transformando ideias em soluções através da tecnologia.
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&section=footer)
