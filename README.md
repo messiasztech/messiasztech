@@ -1,84 +1,54 @@
 <div align="center">
 
-# 👋 Hello, I'm Messias
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Messias&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Programming%20Teacher%20•%20Founder%20of%20M%26C%20TechLab&descAlignY=58"/>
 
-### 💻 Full Stack Developer • Programming Teacher • Founder of M&C TechLab
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Programming+Teacher;AI+Enthusiast;Building+Modern+Web+Applications;3D+Printing+Maker" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=0e75b6"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Programming+Teacher;Artificial+Intelligence+Enthusiast;Building+Modern+Web+Applications"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👋 About Me
 
-```javascript
-const messias = {
-    location: "Brazil 🇧🇷",
-    role: "Full Stack Developer",
-    company: "M&C TechLab",
-    education: "Computer Science",
-    passions: [
-        "Web Development",
-        "Artificial Intelligence",
-        "3D Printing",
-        "Teaching Programming",
-        "Automation"
-    ],
-    currentlyLearning: [
-        "React",
-        "Vue",
-        "Node.js",
-        "Python",
-        "TypeScript",
-        "AI"
-    ]
-}
+```txt
+💻 Full Stack Developer
+
+👨‍🏫 Programming Teacher
+
+🎓 Computer Science Student
+
+🚀 Founder of M&C TechLab
+
+🤖 Artificial Intelligence Enthusiast
+
+🖨️ 3D Printing Maker
+
+🌎 Brazil
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-### Front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,bootstrap&perline=7"/>
-
-### Back-end
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,java&perline=6"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,vercel,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,nodejs,python,php,java,mysql,postgresql,git,github,docker,vscode,linux,vercel&perline=9"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -88,49 +58,48 @@ const messias = {
 
 ---
 
-# 📈 Contribution Graph
+# 🚀 Main Projects
 
-<div align="center">
+### 🖨️ 3D Printing
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+- Cost Calculator
+- Quote Generator
+- STL Utilities
 
-</div>
+### 🤖 Artificial Intelligence
 
----
+- AI Coding
+- AI Automation
+- Chatbots
 
-# 🏆 GitHub Trophies
+### 💻 Full Stack
 
-<div align="center">
+- SaaS Applications
+- REST APIs
+- Dashboards
+- Authentication
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+### 📚 Education
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🖨️ 3D Printing Calculator | Cost calculator for 3D printed parts |
-| 🤖 AI Projects | Artificial Intelligence applications |
-| 💻 SaaS Systems | Full Stack Web Applications |
-| 📚 Educational Projects | Programming education materials |
+- Programming Lessons
+- Teaching Materials
+- Educational Systems
 
 ---
 
-# 📚 Currently Studying
+# 🌱 Currently Learning
 
-- ⚛️ React
-- 💚 Vue.js
-- 🟢 Node.js
-- 🐍 Python
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
+- React
+- Vue.js
+- Node.js
+- TypeScript
+- Python
+- Artificial Intelligence
+- Cloud Computing
 
 ---
 
-# 🌎 Connect With Me
+# 📫 Contact
 
 <div align="center">
 
@@ -156,10 +125,16 @@ const messias = {
 
 <div align="center">
 
-## 💙 Thanks for visiting!
-
-*"Code. Learn. Build. Share."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&style=for-the-badge&color=2563eb"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Inspire."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
